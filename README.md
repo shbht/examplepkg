@@ -1,1 +1,1 @@
-# gopackage
+# example go package
